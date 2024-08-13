@@ -9,4 +9,6 @@ git reset [file]    <!-- unstage a file while retaining the changes in working d
 
 git commit -m “[descriptive message]”     <!-- commit your staged content as a new commit snapshot -->
 
-git pull    <!-- fetch and merge any commits from the tracking remote branch -->
+git push [alias] [branch]    <!-- Transmit local branch commits to the remote repository branch -->
+
+git pull   <!-- fetch and merge any commits from the tracking remote branch -->
