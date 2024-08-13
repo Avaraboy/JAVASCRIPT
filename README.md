@@ -1,7 +1,7 @@
 # JAVASCRIPT
 This is javascript repo
 
-git add .   <!-- this help to add all code at a time-->
+git add .   <!-- this help to add all code at a time befor commit we need to use add command-->
 
 git status    <!-- show modified files in working directory, staged for your next commit -->
 
