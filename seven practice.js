@@ -30,5 +30,5 @@ let a = [2,3,4,5,6,7,8];
 console.log("The square of the array is")
 a.forEach((val) => {
     sq=val ** 2;
-    console.log(sq);
+    console.log(sq);            // output square of array
 });
